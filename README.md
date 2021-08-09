@@ -1,5 +1,5 @@
 # pressbg
 
-## Code for Japan x Code for FUKUI
+## echizencity x catv
 
-https://code4fukui.github.io/pressbg/
+https://echizencity.github.io/backpanel/
